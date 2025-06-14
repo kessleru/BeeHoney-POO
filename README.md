@@ -104,12 +104,7 @@ O jogo inclui sprites animados para:
 - Menu principal e game over
 - Movimento automático de inimigos e coletáveis
 
-### Possíveis Melhorias 🔮
-- Sistema de níveis de dificuldade
-- Power-ups especiais
-- Música e efeitos sonoros
-- Rankings de pontuação
-- Mais tipos de inimigos
+
 
 ## 👨‍💻 Desenvolvimento
 
